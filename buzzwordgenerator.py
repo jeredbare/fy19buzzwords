@@ -11,4 +11,4 @@ for i in buzzwords:
 print("\n" + "*" * 50 + "\n")
 
 print("\n" + "=" * 10 + "What to do with your new slogan" + "=" * 10)
-print("Step 1. Sell a product or software based off the slogan without actually building it.\n" + "Step 2. Generate a bunch of media round such slogan.\n" + "Step 3. ????\n" +  "Step 4. Profit\n")
+print("Step 1. Sell a product or software based off the slogan without actually building it.\n" + "Step 2. Generate a bunch of media around such slogan.\n" + "Step 3. ????\n" +  "Step 4. Profit\n")
