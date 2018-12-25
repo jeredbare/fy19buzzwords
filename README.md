@@ -1,3 +1,4 @@
-How to use.
-1. ```python buzzwordgenerator.py```
-2. Follow on-screen instructions.  
+How to use (only Python3)
+1. Clone repo or python file.
+2. ```python buzzwordgenerator.py```
+3. Follow on-screen instructions.  
